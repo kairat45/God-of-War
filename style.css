@@ -1,0 +1,58 @@
+{
+   margin: 0;
+}
+
+.big-div{
+    background-color: aquamarine;
+    height:500px ;
+    width:500px ;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+
+.little-div{
+    height:150px;
+    width: 150px;
+    background-color: black;
+}
+#q1{
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
